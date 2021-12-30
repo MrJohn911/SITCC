@@ -33,7 +33,8 @@ g --> UC3
 
 ### Especificicações de Casos de Uso
 
-[reqs_UC01.md]
+- [UC_01](reqs_UC01.md)
+- [UC_02](reqs_UC02.md)
 
 
 ## Requisitos não-funcionais
